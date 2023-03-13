@@ -1,4 +1,4 @@
-## P, NP-complete, and NP-hard
+## P, NP, NP-complete, and NP-hard
 
 - P, NP-complete, and NP-hard are concepts in computational complexity theory, which is concerned with the difficulty of solving computational problems.
 
