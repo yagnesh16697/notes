@@ -2,7 +2,7 @@
 
 - P, NP-complete, and NP-hard are concepts in computational complexity theory, which is concerned with the difficulty of solving computational problems.
 
-- P problems are decision problems that can be solved in polynomial time[T(n) = O(nk) for some positive constant k], meaning that the time it takes to solve the problem is proportional to a polynomial function of the size of the input. Examples of P problems include sorting a list of numbers or finding the shortest path between two points in a graph.
+- P problems are decision problems that can be solved in polynomial time[T(n) = O(n^k) for some positive constant k], meaning that the time it takes to solve the problem is proportional to a polynomial function of the size of the input. Examples of P problems include sorting a list of numbers or finding the shortest path between two points in a graph.
 
 - NP problems, on the other hand, are decision problems for which a solution can be verified in polynomial time. In other words, if you are given a possible solution, you can check that it is correct in polynomial time. Examples of NP problems include the traveling salesman problem and the knapsack problem.
 
